@@ -61,4 +61,4 @@ Node.js · C# / .NET · PostgreSQL · Flutter · Docker Compose · Python (learn
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/shamseervirus) · shamseerk1997@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shamseervirus)
